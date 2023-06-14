@@ -1,4 +1,4 @@
-# the_flutter_app
+# flutter_twitter_clone
 
 A new Flutter project.
 
