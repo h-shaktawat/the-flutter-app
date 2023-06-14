@@ -1,4 +1,4 @@
-# the_flutter_app
+# flutter_udemy
 
 A new Flutter project.
 
